@@ -1,0 +1,326 @@
+2024-12-22 23:38:27,007 - DEBUG - Starting new HTTPS connection (1): www.amazon.eg:443
+2024-12-22 23:38:27,177 - DEBUG - https://www.amazon.eg:443 "GET /s?k=Casio+FX-991ESPLUS-2WDTV+Digital+Calculator+-+Black&language=en HTTP/11" 503 None
+2024-12-22 23:38:27,177 - DEBUG - Incremented Retry for (url='/s?k=Casio+FX-991ESPLUS-2WDTV+Digital+Calculator+-+Black&language=en'): Retry(total=4, connect=None, read=None, redirect=None, status=None)
+2024-12-22 23:38:27,177 - DEBUG - Retry: /s?k=Casio+FX-991ESPLUS-2WDTV+Digital+Calculator+-+Black&language=en
+2024-12-22 23:38:27,291 - DEBUG - https://www.amazon.eg:443 "GET /s?k=Casio+FX-991ESPLUS-2WDTV+Digital+Calculator+-+Black&language=en HTTP/11" 200 None
+2024-12-22 23:38:28,357 - DEBUG - Found 20 items on Amazon search
+2024-12-22 23:38:29,536 - DEBUG - https://www.amazon.eg:443 "GET /s?k=Casio+FX-991ESPLUS-2WDTV+Digital+Calculator+-+Black&language=ar HTTP/11" 200 None
+2024-12-22 23:38:30,204 - DEBUG - Found 20 items on Amazon search
+2024-12-22 23:38:31,328 - DEBUG - Starting new HTTPS connection (1): www.noon.com:443
+2024-12-22 23:38:31,597 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=casio+fx+991esplus HTTP/11" 308 67
+2024-12-22 23:38:32,412 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=casio%20fx%20991esplus HTTP/11" 200 None
+2024-12-22 23:38:34,322 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=casio+fx+991esplus+2wdtv HTTP/11" 308 73
+2024-12-22 23:38:35,175 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=casio%20fx%20991esplus%202wdtv HTTP/11" 200 None
+2024-12-22 23:38:37,547 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=Casio+FX+991ESPLUS+2WDTV+Digital+Calculator+++Black HTTP/11" 308 102
+2024-12-22 23:38:38,105 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=Casio%20FX%20991ESPLUS%202WDTV%20Digital%20Calculator%20%20%20Black HTTP/11" 200 None
+2024-12-22 23:38:40,060 - DEBUG - Starting new HTTPS connection (1): www.jumia.com.eg:443
+2024-12-22 23:38:40,526 - DEBUG - https://www.jumia.com.eg:443 "GET /catalog/?q=casio+fx+991esplus HTTP/11" 200 None
+2024-12-22 23:38:42,528 - DEBUG - https://www.jumia.com.eg:443 "GET /catalog/?q=casio+fx+991esplus+2wdtv HTTP/11" 200 None
+2024-12-22 23:38:44,311 - DEBUG - https://www.jumia.com.eg:443 "GET /catalog/?q=Casio+FX+991ESPLUS+2WDTV+Digital+Calculator+++Black HTTP/11" 200 None
+2024-12-22 23:46:31,722 - DEBUG - Starting new HTTPS connection (1): www.amazon.eg:443
+2024-12-22 23:46:31,866 - DEBUG - https://www.amazon.eg:443 "GET /s?k=WD+2TB+My+Passport+Portable+External+Hard+Drive+USB+3.0+-+Black%2C+WDBYFT0020BBK&language=en HTTP/11" 503 None
+2024-12-22 23:46:31,866 - DEBUG - Incremented Retry for (url='/s?k=WD+2TB+My+Passport+Portable+External+Hard+Drive+USB+3.0+-+Black%2C+WDBYFT0020BBK&language=en'): Retry(total=4, connect=None, read=None, redirect=None, status=None)
+2024-12-22 23:46:31,866 - DEBUG - Retry: /s?k=WD+2TB+My+Passport+Portable+External+Hard+Drive+USB+3.0+-+Black%2C+WDBYFT0020BBK&language=en
+2024-12-22 23:46:31,978 - DEBUG - https://www.amazon.eg:443 "GET /s?k=WD+2TB+My+Passport+Portable+External+Hard+Drive+USB+3.0+-+Black%2C+WDBYFT0020BBK&language=en HTTP/11" 200 None
+2024-12-22 23:46:33,125 - DEBUG - Found 14 items on Amazon search
+2024-12-22 23:46:34,555 - DEBUG - https://www.amazon.eg:443 "GET /s?k=WD+2TB+My+Passport+Portable+External+Hard+Drive+USB+3.0+-+Black%2C+WDBYFT0020BBK&language=ar HTTP/11" 200 None
+2024-12-22 23:46:35,127 - DEBUG - Found 16 items on Amazon search
+2024-12-22 23:46:35,136 - INFO - Found 0 products on Amazon Egypt
+2024-12-22 23:46:35,136 - ERROR - Error scraping Noon Egypt: too many values to unpack (expected 2)
+2024-12-22 23:46:35,136 - ERROR - Error scraping Jumia Egypt: too many values to unpack (expected 2)
+2024-12-22 23:46:36,530 - DEBUG - Starting new HTTPS connection (1): www.carrefouregypt.com:443
+2024-12-22 23:46:36,882 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=wd+2tb+my HTTP/11" 301 0
+2024-12-22 23:46:37,805 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-22 23:46:39,592 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=wd HTTP/11" 301 0
+2024-12-22 23:46:40,520 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-22 23:46:42,196 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=wd+2tb+my+passport+portable+external+hard+drive+usb+3.0+-+black%2C+wdbyft0020bbk HTTP/11" 301 0
+2024-12-22 23:46:43,266 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-22 23:46:43,301 - INFO - Found 0 products on Carrefour Egypt
+2024-12-22 23:53:56,890 - DEBUG - Resetting dropped connection: www.amazon.eg
+2024-12-22 23:53:57,133 - DEBUG - https://www.amazon.eg:443 "GET /s?k=PHILIPS+Evnia+27M2N3200A+-+27+inch+FHD+monitor%2C+180+Hz%2C+1+ms%2C+FreeSync+Prem.%2C+G-Sync+comp%2C+HDR10%2C+height+adjustment.+%281920x1080%2C+DisplayPort%2C+HDMI%29+black%2Fgray&language=en HTTP/11" 200 None
+2024-12-22 23:53:57,829 - DEBUG - Found 8 items on Amazon search
+2024-12-22 23:53:59,705 - DEBUG - https://www.amazon.eg:443 "GET /s?k=PHILIPS+Evnia+27M2N3200A+-+27+inch+FHD+monitor%2C+180+Hz%2C+1+ms%2C+FreeSync+Prem.%2C+G-Sync+comp%2C+HDR10%2C+height+adjustment.+%281920x1080%2C+DisplayPort%2C+HDMI%29+black%2Fgray&language=ar HTTP/11" 200 None
+2024-12-22 23:54:00,255 - DEBUG - Found 8 items on Amazon search
+2024-12-22 23:54:00,260 - INFO - Found 0 products on Amazon Egypt
+2024-12-22 23:54:00,260 - ERROR - Error scraping Noon Egypt: too many values to unpack (expected 2)
+2024-12-22 23:54:00,261 - ERROR - Error scraping Jumia Egypt: too many values to unpack (expected 2)
+2024-12-22 23:54:01,500 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=philips+evnia+27m2n3200a HTTP/11" 301 0
+2024-12-22 23:54:02,257 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-22 23:54:04,551 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=philips+evnia+27m2n3200a+-+27+inch+fhd+monitor%2C+180+hz%2C+1+ms%2C+freesync+prem.%2C+g-sync+comp%2C+hdr10%2C+height+adjustment.+%281920x1080%2C+displayport%2C+hdmi%29+black%2Fgray HTTP/11" 301 0
+2024-12-22 23:54:05,451 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-22 23:54:07,322 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=philips HTTP/11" 301 0
+2024-12-22 23:54:08,178 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-22 23:54:08,233 - INFO - Found 0 products on Carrefour Egypt
+2024-12-22 23:55:15,555 - DEBUG - https://www.amazon.eg:443 "GET /s?k=PHILIPS+Evnia+27M2N3200A&language=en HTTP/11" 200 None
+2024-12-22 23:55:16,830 - DEBUG - Found 11 items on Amazon search
+2024-12-22 23:55:18,030 - DEBUG - https://www.amazon.eg:443 "GET /s?k=PHILIPS+Evnia+27M2N3200A&language=ar HTTP/11" 200 None
+2024-12-22 23:55:18,633 - DEBUG - Found 11 items on Amazon search
+2024-12-22 23:55:18,640 - INFO - Found 0 products on Amazon Egypt
+2024-12-22 23:55:19,788 - DEBUG - Starting new HTTPS connection (1): www.noon.com:443
+2024-12-22 23:55:20,096 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=p HTTP/11" 308 47
+2024-12-22 23:55:21,351 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=p HTTP/11" 200 None
+2024-12-22 23:55:23,818 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=h HTTP/11" 308 47
+2024-12-22 23:55:24,648 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=h HTTP/11" 200 None
+2024-12-22 23:55:26,795 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=i HTTP/11" 308 47
+2024-12-22 23:55:27,731 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=i HTTP/11" 200 None
+2024-12-22 23:55:30,112 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=l HTTP/11" 308 47
+2024-12-22 23:55:31,492 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=l HTTP/11" 200 None
+2024-12-22 23:55:33,851 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=i HTTP/11" 308 47
+2024-12-22 23:55:34,569 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=i HTTP/11" 200 None
+2024-12-22 23:55:36,835 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=p HTTP/11" 308 47
+2024-12-22 23:55:37,732 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=p HTTP/11" 200 None
+2024-12-22 23:55:40,327 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=s HTTP/11" 308 47
+2024-12-22 23:55:41,720 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=s HTTP/11" 200 None
+2024-12-22 23:55:42,773 - INFO - Found 0 products on Noon Egypt
+2024-12-22 23:55:43,989 - DEBUG - Starting new HTTPS connection (1): www.jumia.com.eg:443
+2024-12-22 23:55:45,508 - DEBUG - https://www.jumia.com.eg:443 "GET /catalog/?q=p HTTP/11" 200 None
+2024-12-22 23:55:48,239 - DEBUG - https://www.jumia.com.eg:443 "GET /catalog/?q=h HTTP/11" 200 None
+2024-12-22 23:55:51,121 - DEBUG - https://www.jumia.com.eg:443 "GET /catalog/?q=i HTTP/11" 200 None
+2024-12-22 23:55:54,693 - DEBUG - https://www.jumia.com.eg:443 "GET /catalog/?q=l HTTP/11" 200 None
+2024-12-22 23:55:56,877 - DEBUG - https://www.jumia.com.eg:443 "GET /catalog/?q=i HTTP/11" 200 None
+2024-12-22 23:55:58,956 - DEBUG - https://www.jumia.com.eg:443 "GET /catalog/?q=p HTTP/11" 200 None
+2024-12-22 23:56:01,936 - DEBUG - https://www.jumia.com.eg:443 "GET /catalog/?q=s HTTP/11" 200 None
+2024-12-22 23:56:02,699 - INFO - Found 0 products on Jumia Egypt
+2024-12-22 23:56:03,969 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=philips+evnia+27m2n3200a HTTP/11" 301 0
+2024-12-22 23:56:04,930 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-22 23:56:07,009 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=philips HTTP/11" 301 0
+2024-12-22 23:56:07,834 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-22 23:56:08,185 - INFO - Found 0 products on Carrefour Egypt
+2024-12-22 23:59:36,584 - DEBUG - Resetting dropped connection: www.amazon.eg
+2024-12-22 23:59:37,084 - DEBUG - https://www.amazon.eg:443 "GET /s?k=PHILIPS+Evnia+27M2N3200A+-+27+inch+FHD+monitor%2C+180+Hz%2C+1+ms%2C+FreeSync+Prem.%2C+G-Sync+comp%2C+HDR10%2C+height+adjustment.+%281920x1080%2C+DisplayPort%2C+HDMI%29+black%2Fgray&language=en HTTP/11" 200 None
+2024-12-22 23:59:37,766 - DEBUG - Found 8 items on Amazon search
+2024-12-22 23:59:39,397 - DEBUG - https://www.amazon.eg:443 "GET /s?k=PHILIPS+Evnia+27M2N3200A+-+27+inch+FHD+monitor%2C+180+Hz%2C+1+ms%2C+FreeSync+Prem.%2C+G-Sync+comp%2C+HDR10%2C+height+adjustment.+%281920x1080%2C+DisplayPort%2C+HDMI%29+black%2Fgray&language=ar HTTP/11" 200 None
+2024-12-22 23:59:40,016 - DEBUG - Found 8 items on Amazon search
+2024-12-22 23:59:40,022 - INFO - Found 0 products on Amazon Egypt
+2024-12-22 23:59:40,022 - ERROR - Error scraping Noon Egypt: too many values to unpack (expected 2)
+2024-12-22 23:59:40,022 - ERROR - Error scraping Jumia Egypt: too many values to unpack (expected 2)
+2024-12-22 23:59:41,703 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=philips+evnia+27m2n3200a HTTP/11" 301 0
+2024-12-22 23:59:42,563 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-22 23:59:44,330 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=philips+evnia+27m2n3200a+-+27+inch+fhd+monitor%2C+180+hz%2C+1+ms%2C+freesync+prem.%2C+g-sync+comp%2C+hdr10%2C+height+adjustment.+%281920x1080%2C+displayport%2C+hdmi%29+black%2Fgray HTTP/11" 301 0
+2024-12-22 23:59:45,320 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-22 23:59:47,277 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=philips HTTP/11" 301 0
+2024-12-22 23:59:48,335 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-22 23:59:48,649 - INFO - Found 0 products on Carrefour Egypt
+2024-12-23 00:00:53,127 - DEBUG - https://www.amazon.eg:443 "GET /s?k=Sokany+SK-8029+Digital+Fryer+12+Liters+-+Black&language=en HTTP/11" 200 None
+2024-12-23 00:00:54,187 - DEBUG - Found 51 items on Amazon search
+2024-12-23 00:00:55,962 - DEBUG - https://www.amazon.eg:443 "GET /s?k=Sokany+SK-8029+Digital+Fryer+12+Liters+-+Black&language=ar HTTP/11" 200 None
+2024-12-23 00:00:57,048 - DEBUG - Found 53 items on Amazon search
+2024-12-23 00:00:57,063 - INFO - Found 0 products on Amazon Egypt
+2024-12-23 00:00:57,063 - ERROR - Error scraping Noon Egypt: too many values to unpack (expected 2)
+2024-12-23 00:00:57,063 - ERROR - Error scraping Jumia Egypt: too many values to unpack (expected 2)
+2024-12-23 00:00:58,434 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=sokany+sk-8029+digital HTTP/11" 301 0
+2024-12-23 00:00:59,317 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-23 00:01:01,539 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=sokany+sk-8029+digital+fryer+12+liters+-+black HTTP/11" 301 0
+2024-12-23 00:01:02,708 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-23 00:01:04,403 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=sokany HTTP/11" 301 0
+2024-12-23 00:01:05,305 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-23 00:01:05,370 - INFO - Found 0 products on Carrefour Egypt
+2024-12-23 00:05:59,435 - DEBUG - Starting new HTTPS connection (1): www.amazon.eg:443
+2024-12-23 00:05:59,593 - DEBUG - https://www.amazon.eg:443 "GET /s?k=Fresh+Oven+and+Air+Fryer+%282x1%29+-+Panorama HTTP/11" 200 None
+2024-12-23 00:06:00,899 - DEBUG - Found 21 items on Amazon
+2024-12-23 00:06:00,921 - INFO - Found 0 matching products on Amazon Egypt
+2024-12-23 00:06:02,385 - DEBUG - Starting new HTTPS connection (1): www.noon.com:443
+2024-12-23 00:06:02,654 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=Fresh+Oven+and+Air+Fryer+%282x1%29+-+Panorama HTTP/11" 308 92
+2024-12-23 00:06:03,398 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=Fresh%20Oven%20and%20Air%20Fryer%20(2x1)%20-%20Panorama HTTP/11" 200 None
+2024-12-23 00:06:03,723 - DEBUG - Found 0 items on Noon
+2024-12-23 00:06:03,723 - INFO - Found 0 matching products on Noon Egypt
+2024-12-23 00:06:05,598 - DEBUG - Starting new HTTPS connection (1): www.carrefouregypt.com:443
+2024-12-23 00:06:05,843 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=Fresh+Oven+and+Air+Fryer+%282x1%29+-+Panorama HTTP/11" 301 0
+2024-12-23 00:06:06,715 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 81033
+2024-12-23 00:06:06,867 - DEBUG - Found 0 items on Carrefour
+2024-12-23 00:06:08,278 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/ar/search?q=Fresh+Oven+and+Air+Fryer+%282x1%29+-+Panorama HTTP/11" 301 0
+2024-12-23 00:06:09,183 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/ar/ HTTP/11" 200 82451
+2024-12-23 00:06:09,260 - DEBUG - Found 0 items on Carrefour
+2024-12-23 00:06:09,260 - INFO - Found 0 matching products on Carrefour Egypt
+2024-12-23 00:07:52,061 - DEBUG - https://www.amazon.eg:443 "GET /s?k=Joyroom+JR-BP560S+Capacitive+Touchscreen+Stylus+Passive+Capacitive+Pen+For+iPad+iPhone+All+Capacitiv%7C12+Months+Warranty HTTP/11" 200 None
+2024-12-23 00:07:53,024 - DEBUG - Found 48 items on Amazon
+2024-12-23 00:07:53,066 - INFO - Found 0 matching products on Amazon Egypt
+2024-12-23 00:07:55,054 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=Joyroom+JR-BP560S+Capacitive+Touchscreen+Stylus+Passive+Capacitive+Pen+For+iPad+iPhone+All+Capacitiv%7C12+Months+Warranty HTTP/11" 308 152
+2024-12-23 00:07:57,145 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=Joyroom%20JR-BP560S%20Capacitive%20Touchscreen%20Stylus%20Passive%20Capacitive%20Pen%20For%20iPad%20iPhone%20All%20Capacitiv%7C12%20Months%20Warranty HTTP/11" 200 None
+2024-12-23 00:07:57,534 - DEBUG - Found 0 items on Noon
+2024-12-23 00:07:57,534 - INFO - Found 0 matching products on Noon Egypt
+2024-12-23 00:07:59,546 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=Joyroom+JR-BP560S+Capacitive+Touchscreen+Stylus+Passive+Capacitive+Pen+For+iPad+iPhone+All+Capacitiv%7C12+Months+Warranty HTTP/11" 301 0
+2024-12-23 00:08:00,423 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-23 00:08:00,476 - DEBUG - Found 0 items on Carrefour
+2024-12-23 00:08:01,878 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/ar/search?q=Joyroom+JR-BP560S+Capacitive+Touchscreen+Stylus+Passive+Capacitive+Pen+For+iPad+iPhone+All+Capacitiv%7C12+Months+Warranty HTTP/11" 301 0
+2024-12-23 00:08:02,812 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/ar/ HTTP/11" 200 None
+2024-12-23 00:08:02,875 - DEBUG - Found 0 items on Carrefour
+2024-12-23 00:08:02,875 - INFO - Found 0 matching products on Carrefour Egypt
+2024-12-23 00:18:59,842 - DEBUG - Starting new HTTPS connection (1): www.amazon.eg:443
+2024-12-23 00:19:00,033 - DEBUG - https://www.amazon.eg:443 "GET /s?k=Joyroom+JR-BP560S+Capacitive+Touchscreen+Stylus+Passive+Capacitive+Pen+For+iPad+iPhone+All+Capacitiv%7C12+Months+Warranty HTTP/11" 200 None
+2024-12-23 00:19:01,635 - INFO - Found 0 matching products on Amazon Egypt
+2024-12-23 00:19:02,757 - DEBUG - Starting new HTTPS connection (1): www.noon.com:443
+2024-12-23 00:19:03,274 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=Joyroom+JR-BP560S+Capacitive+Touchscreen+Stylus+Passive+Capacitive+Pen+For+iPad+iPhone+All+Capacitiv%7C12+Months+Warranty HTTP/11" 308 152
+2024-12-23 00:19:04,048 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=Joyroom%20JR-BP560S%20Capacitive%20Touchscreen%20Stylus%20Passive%20Capacitive%20Pen%20For%20iPad%20iPhone%20All%20Capacitiv%7C12%20Months%20Warranty HTTP/11" 200 None
+2024-12-23 00:19:04,723 - INFO - Found 0 matching products on Noon Egypt
+2024-12-23 00:19:06,360 - DEBUG - Starting new HTTPS connection (1): www.carrefouregypt.com:443
+2024-12-23 00:19:06,618 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=Joyroom+JR-BP560S+Capacitive+Touchscreen+Stylus+Passive+Capacitive+Pen+For+iPad+iPhone+All+Capacitiv%7C12+Months+Warranty HTTP/11" 301 0
+2024-12-23 00:19:07,607 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-23 00:19:10,104 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/ar/search?q=Joyroom+JR-BP560S+Capacitive+Touchscreen+Stylus+Passive+Capacitive+Pen+For+iPad+iPhone+All+Capacitiv%7C12+Months+Warranty HTTP/11" 301 0
+2024-12-23 00:19:11,062 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/ar/ HTTP/11" 200 None
+2024-12-23 00:19:11,400 - INFO - Found 0 matching products on Carrefour Egypt
+2024-12-23 00:28:34,183 - DEBUG - Starting new HTTPS connection (1): www.amazon.eg:443
+2024-12-23 00:28:34,631 - DEBUG - https://www.amazon.eg:443 "GET /s?k=Joyroom+JR-BP560S+Capacitive+Touchscreen+Stylus+Passive+Capacitive+Pen+For+iPad+iPhone+All+Capacitiv%7C12+Months+Warranty HTTP/11" 200 None
+2024-12-23 00:28:38,133 - DEBUG - Starting new HTTPS connection (1): www.noon.com:443
+2024-12-23 00:28:38,501 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=Joyroom+JR-BP560S+Capacitive+Touchscreen+Stylus+Passive+Capacitive+Pen+For+iPad+iPhone+All+Capacitiv%7C12+Months+Warranty HTTP/11" 308 152
+2024-12-23 00:28:41,840 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=Joyroom%20JR-BP560S%20Capacitive%20Touchscreen%20Stylus%20Passive%20Capacitive%20Pen%20For%20iPad%20iPhone%20All%20Capacitiv%7C12%20Months%20Warranty HTTP/11" 200 None
+2024-12-23 00:28:44,405 - DEBUG - Starting new HTTPS connection (1): www.carrefouregypt.com:443
+2024-12-23 00:28:44,724 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=Joyroom+JR-BP560S+Capacitive+Touchscreen+Stylus+Passive+Capacitive+Pen+For+iPad+iPhone+All+Capacitiv%7C12+Months+Warranty HTTP/11" 301 0
+2024-12-23 00:28:45,574 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-23 00:28:47,860 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/ar/search?q=Joyroom+JR-BP560S+Capacitive+Touchscreen+Stylus+Passive+Capacitive+Pen+For+iPad+iPhone+All+Capacitiv%7C12+Months+Warranty HTTP/11" 301 0
+2024-12-23 00:28:49,097 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/ar/ HTTP/11" 200 None
+2024-12-23 00:35:47,576 - DEBUG - Starting new HTTPS connection (1): www.amazon.eg:443
+2024-12-23 00:35:47,704 - DEBUG - https://www.amazon.eg:443 "GET /s?k=Men+Classic+Shirt+from+White+Eagle&language=en HTTP/11" 503 None
+2024-12-23 00:35:47,705 - DEBUG - Incremented Retry for (url='/s?k=Men+Classic+Shirt+from+White+Eagle&language=en'): Retry(total=4, connect=None, read=None, redirect=None, status=None)
+2024-12-23 00:35:47,706 - DEBUG - Retry: /s?k=Men+Classic+Shirt+from+White+Eagle&language=en
+2024-12-23 00:35:47,808 - DEBUG - https://www.amazon.eg:443 "GET /s?k=Men+Classic+Shirt+from+White+Eagle&language=en HTTP/11" 200 None
+2024-12-23 00:35:50,573 - DEBUG - https://www.amazon.eg:443 "GET /s?k=Men+Classic+Shirt+from+White+Eagle&language=ar HTTP/11" 200 None
+2024-12-23 00:35:52,852 - DEBUG - https://www.amazon.eg:443 "GET /s?k=Men+Classic+Shirt+from+White+Eagle HTTP/11" 200 None
+2024-12-23 00:35:54,997 - DEBUG - Starting new HTTPS connection (1): www.noon.com:443
+2024-12-23 00:35:55,371 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=Men+Classic+Shirt+from+White+Eagle HTTP/11" 308 85
+2024-12-23 00:35:57,154 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=Men%20Classic%20Shirt%20from%20White%20Eagle HTTP/11" 200 None
+2024-12-23 00:35:59,351 - DEBUG - Starting new HTTPS connection (1): www.carrefouregypt.com:443
+2024-12-23 00:35:59,656 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=Men+Classic+Shirt+from+White+Eagle HTTP/11" 301 0
+2024-12-23 00:36:00,514 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-23 00:36:02,413 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/ar/search?q=Men+Classic+Shirt+from+White+Eagle HTTP/11" 301 0
+2024-12-23 00:36:03,247 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/ar/ HTTP/11" 200 None
+2024-12-23 00:38:06,860 - DEBUG - Starting new HTTPS connection (1): www.amazon.eg:443
+2024-12-23 00:38:06,987 - DEBUG - https://www.amazon.eg:443 "GET /s?k=RABIGALA+Balaclava+Face+Mask+Ski+Mask+for+Men+Women+UV+Protection+Neck+Gaiter+for+Skiing+Motorcycle+Black%2C+Stretch%2C+M&language=en HTTP/11" 503 None
+2024-12-23 00:38:06,987 - DEBUG - Incremented Retry for (url='/s?k=RABIGALA+Balaclava+Face+Mask+Ski+Mask+for+Men+Women+UV+Protection+Neck+Gaiter+for+Skiing+Motorcycle+Black%2C+Stretch%2C+M&language=en'): Retry(total=4, connect=None, read=None, redirect=None, status=None)
+2024-12-23 00:38:06,987 - DEBUG - Retry: /s?k=RABIGALA+Balaclava+Face+Mask+Ski+Mask+for+Men+Women+UV+Protection+Neck+Gaiter+for+Skiing+Motorcycle+Black%2C+Stretch%2C+M&language=en
+2024-12-23 00:38:07,072 - DEBUG - https://www.amazon.eg:443 "GET /s?k=RABIGALA+Balaclava+Face+Mask+Ski+Mask+for+Men+Women+UV+Protection+Neck+Gaiter+for+Skiing+Motorcycle+Black%2C+Stretch%2C+M&language=en HTTP/11" 503 None
+2024-12-23 00:38:07,072 - DEBUG - Incremented Retry for (url='/s?k=RABIGALA+Balaclava+Face+Mask+Ski+Mask+for+Men+Women+UV+Protection+Neck+Gaiter+for+Skiing+Motorcycle+Black%2C+Stretch%2C+M&language=en'): Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2024-12-23 00:38:09,074 - DEBUG - Retry: /s?k=RABIGALA+Balaclava+Face+Mask+Ski+Mask+for+Men+Women+UV+Protection+Neck+Gaiter+for+Skiing+Motorcycle+Black%2C+Stretch%2C+M&language=en
+2024-12-23 00:38:09,147 - DEBUG - https://www.amazon.eg:443 "GET /s?k=RABIGALA+Balaclava+Face+Mask+Ski+Mask+for+Men+Women+UV+Protection+Neck+Gaiter+for+Skiing+Motorcycle+Black%2C+Stretch%2C+M&language=en HTTP/11" 503 None
+2024-12-23 00:38:09,152 - DEBUG - Incremented Retry for (url='/s?k=RABIGALA+Balaclava+Face+Mask+Ski+Mask+for+Men+Women+UV+Protection+Neck+Gaiter+for+Skiing+Motorcycle+Black%2C+Stretch%2C+M&language=en'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2024-12-23 00:38:13,153 - DEBUG - Retry: /s?k=RABIGALA+Balaclava+Face+Mask+Ski+Mask+for+Men+Women+UV+Protection+Neck+Gaiter+for+Skiing+Motorcycle+Black%2C+Stretch%2C+M&language=en
+2024-12-23 00:38:13,252 - DEBUG - https://www.amazon.eg:443 "GET /s?k=RABIGALA+Balaclava+Face+Mask+Ski+Mask+for+Men+Women+UV+Protection+Neck+Gaiter+for+Skiing+Motorcycle+Black%2C+Stretch%2C+M&language=en HTTP/11" 200 None
+2024-12-23 00:38:16,680 - DEBUG - https://www.amazon.eg:443 "GET /s?k=RABIGALA+Balaclava+Face+Mask+Ski+Mask+for+Men+Women+UV+Protection+Neck+Gaiter+for+Skiing+Motorcycle+Black%2C+Stretch%2C+M&language=ar HTTP/11" 200 None
+2024-12-23 00:38:18,802 - DEBUG - https://www.amazon.eg:443 "GET /s?k=RABIGALA+Balaclava+Face+Mask+Ski+Mask+for+Men+Women+UV+Protection+Neck+Gaiter+for+Skiing+Motorcycle+Black%2C+Stretch%2C+M HTTP/11" 200 None
+2024-12-23 00:38:21,332 - DEBUG - Starting new HTTPS connection (1): www.noon.com:443
+2024-12-23 00:38:21,618 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=RABIGALA+Balaclava+Face+Mask+Ski+Mask+for+Men+Women+UV+Protection+Neck+Gaiter+for+Skiing+Motorcycle+Black%2C+Stretch%2C+M HTTP/11" 308 152
+2024-12-23 00:38:22,103 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=RABIGALA%20Balaclava%20Face%20Mask%20Ski%20Mask%20for%20Men%20Women%20UV%20Protection%20Neck%20Gaiter%20for%20Skiing%20Motorcycle%20Black%2C%20Stretch%2C%20M HTTP/11" 200 None
+2024-12-23 00:38:23,825 - DEBUG - Starting new HTTPS connection (1): www.carrefouregypt.com:443
+2024-12-23 00:38:24,076 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=RABIGALA+Balaclava+Face+Mask+Ski+Mask+for+Men+Women+UV+Protection+Neck+Gaiter+for+Skiing+Motorcycle+Black%2C+Stretch%2C+M HTTP/11" 301 0
+2024-12-23 00:38:24,927 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-23 00:38:26,296 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/ar/search?q=RABIGALA+Balaclava+Face+Mask+Ski+Mask+for+Men+Women+UV+Protection+Neck+Gaiter+for+Skiing+Motorcycle+Black%2C+Stretch%2C+M HTTP/11" 301 0
+2024-12-23 00:38:27,173 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/ar/ HTTP/11" 200 None
+2024-12-23 00:42:03,062 - DEBUG - Starting new HTTPS connection (1): www.amazon.eg:443
+2024-12-23 00:42:03,197 - DEBUG - https://www.amazon.eg:443 "GET /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en HTTP/11" 503 None
+2024-12-23 00:42:03,197 - DEBUG - Incremented Retry for (url='/s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en'): Retry(total=4, connect=None, read=None, redirect=None, status=None)
+2024-12-23 00:42:03,197 - DEBUG - Retry: /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en
+2024-12-23 00:42:03,261 - DEBUG - https://www.amazon.eg:443 "GET /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en HTTP/11" 503 None
+2024-12-23 00:42:03,261 - DEBUG - Incremented Retry for (url='/s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en'): Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2024-12-23 00:42:05,279 - DEBUG - Retry: /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en
+2024-12-23 00:42:05,353 - DEBUG - https://www.amazon.eg:443 "GET /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en HTTP/11" 503 None
+2024-12-23 00:42:05,353 - DEBUG - Incremented Retry for (url='/s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2024-12-23 00:42:09,356 - DEBUG - Retry: /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en
+2024-12-23 00:42:09,432 - DEBUG - https://www.amazon.eg:443 "GET /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en HTTP/11" 503 None
+2024-12-23 00:42:09,432 - DEBUG - Incremented Retry for (url='/s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en'): Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2024-12-23 00:42:17,434 - DEBUG - Retry: /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en
+2024-12-23 00:42:17,630 - DEBUG - https://www.amazon.eg:443 "GET /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en HTTP/11" 503 None
+2024-12-23 00:42:17,630 - DEBUG - Incremented Retry for (url='/s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en'): Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2024-12-23 00:42:33,633 - DEBUG - Retry: /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en
+2024-12-23 00:42:33,712 - DEBUG - https://www.amazon.eg:443 "GET /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en HTTP/11" 503 None
+2024-12-23 00:42:33,714 - ERROR - Error fetching https://www.amazon.eg/s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en: HTTPSConnectionPool(host='www.amazon.eg', port=443): Max retries exceeded with url: /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en (Caused by ResponseError('too many 503 error responses'))
+2024-12-23 00:42:35,016 - DEBUG - https://www.amazon.eg:443 "GET /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=ar HTTP/11" 503 None
+2024-12-23 00:42:35,016 - DEBUG - Incremented Retry for (url='/s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=ar'): Retry(total=4, connect=None, read=None, redirect=None, status=None)
+2024-12-23 00:42:35,017 - DEBUG - Retry: /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=ar
+2024-12-23 00:42:35,110 - DEBUG - https://www.amazon.eg:443 "GET /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=ar HTTP/11" 200 None
+2024-12-23 00:42:38,014 - DEBUG - https://www.amazon.eg:443 "GET /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL HTTP/11" 200 None
+2024-12-23 00:42:40,466 - DEBUG - Starting new HTTPS connection (1): www.noon.com:443
+2024-12-23 00:42:40,793 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL HTTP/11" 308 86
+2024-12-23 00:42:42,224 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=NOKIA%20105%20TA-1557%20DS%20NENA1%20CHARCOAL HTTP/11" 200 None
+2024-12-23 00:42:44,064 - DEBUG - Starting new HTTPS connection (1): www.carrefouregypt.com:443
+2024-12-23 00:42:44,343 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL HTTP/11" 301 0
+2024-12-23 00:42:45,076 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-23 00:42:46,536 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/ar/search?q=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL HTTP/11" 301 0
+2024-12-23 00:42:47,637 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/ar/ HTTP/11" 200 None
+2024-12-23 00:45:40,246 - DEBUG - Starting new HTTPS connection (1): www.amazon.eg:443
+2024-12-23 00:45:40,416 - DEBUG - https://www.amazon.eg:443 "GET /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en HTTP/11" 200 None
+2024-12-23 00:45:43,458 - DEBUG - https://www.amazon.eg:443 "GET /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=ar HTTP/11" 200 None
+2024-12-23 00:45:46,098 - DEBUG - https://www.amazon.eg:443 "GET /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL HTTP/11" 200 None
+2024-12-23 00:45:48,402 - DEBUG - Starting new HTTPS connection (1): www.noon.com:443
+2024-12-23 00:45:48,844 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL HTTP/11" 308 86
+2024-12-23 00:45:50,508 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=NOKIA%20105%20TA-1557%20DS%20NENA1%20CHARCOAL HTTP/11" 200 None
+2024-12-23 00:45:52,214 - DEBUG - Starting new HTTPS connection (1): www.carrefouregypt.com:443
+2024-12-23 00:45:52,563 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL HTTP/11" 301 0
+2024-12-23 00:45:53,397 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-23 00:45:55,034 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/ar/search?q=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL HTTP/11" 301 0
+2024-12-23 00:45:55,967 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/ar/ HTTP/11" 200 None
+2024-12-23 00:51:31,077 - DEBUG - Starting new HTTPS connection (1): www.amazon.eg:443
+2024-12-23 00:51:31,215 - DEBUG - https://www.amazon.eg:443 "GET /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en HTTP/11" 503 None
+2024-12-23 00:51:31,215 - DEBUG - Incremented Retry for (url='/s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en'): Retry(total=4, connect=None, read=None, redirect=None, status=None)
+2024-12-23 00:51:31,231 - DEBUG - Retry: /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en
+2024-12-23 00:51:31,295 - DEBUG - https://www.amazon.eg:443 "GET /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en HTTP/11" 503 None
+2024-12-23 00:51:31,295 - DEBUG - Incremented Retry for (url='/s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en'): Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2024-12-23 00:51:33,308 - DEBUG - Retry: /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en
+2024-12-23 00:51:33,386 - DEBUG - https://www.amazon.eg:443 "GET /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en HTTP/11" 503 None
+2024-12-23 00:51:33,386 - DEBUG - Incremented Retry for (url='/s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en'): Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2024-12-23 00:51:37,389 - DEBUG - Retry: /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en
+2024-12-23 00:51:37,468 - DEBUG - https://www.amazon.eg:443 "GET /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en HTTP/11" 503 None
+2024-12-23 00:51:37,468 - DEBUG - Incremented Retry for (url='/s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en'): Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2024-12-23 00:51:45,473 - DEBUG - Retry: /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en
+2024-12-23 00:51:45,549 - DEBUG - https://www.amazon.eg:443 "GET /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en HTTP/11" 503 None
+2024-12-23 00:51:45,549 - DEBUG - Incremented Retry for (url='/s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en'): Retry(total=0, connect=None, read=None, redirect=None, status=None)
+2024-12-23 00:52:01,550 - DEBUG - Retry: /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en
+2024-12-23 00:52:01,654 - DEBUG - https://www.amazon.eg:443 "GET /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=en HTTP/11" 200 None
+2024-12-23 00:52:03,848 - DEBUG - https://www.amazon.eg:443 "GET /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL&language=ar HTTP/11" 200 None
+2024-12-23 00:52:05,866 - DEBUG - https://www.amazon.eg:443 "GET /s?k=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL HTTP/11" 200 None
+2024-12-23 00:52:07,696 - DEBUG - Starting new HTTPS connection (1): www.noon.com:443
+2024-12-23 00:52:08,173 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL HTTP/11" 308 86
+2024-12-23 00:52:08,618 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=NOKIA%20105%20TA-1557%20DS%20NENA1%20CHARCOAL HTTP/11" 200 None
+2024-12-23 00:52:10,739 - DEBUG - Starting new HTTPS connection (1): www.carrefouregypt.com:443
+2024-12-23 00:52:10,994 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL HTTP/11" 301 0
+2024-12-23 00:52:12,042 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-23 00:52:13,735 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/ar/search?q=NOKIA+105+TA-1557+DS+NENA1+CHARCOAL HTTP/11" 301 0
+2024-12-23 00:52:14,664 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/ar/ HTTP/11" 200 None
+2024-12-23 00:57:09,232 - DEBUG - Starting new HTTPS connection (1): www.amazon.eg:443
+2024-12-23 00:57:09,383 - DEBUG - https://www.amazon.eg:443 "GET /s?k=HONOR+Pad+X8a+4GB+RAM+128GB+ROM+11+Inch+Tablet+Wi-Fi+with+FREE+Flip+Cover%2C+8300mAh+Battery%2C+Slim+Metal+Design%2C+Space+Grey HTTP/11" 200 None
+2024-12-23 00:57:11,923 - DEBUG - Starting new HTTPS connection (1): www.noon.com:443
+2024-12-23 00:57:12,341 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=HONOR+Pad+X8a+4GB+RAM+128GB+ROM+11+Inch+Tablet+Wi-Fi+with+FREE+Flip+Cover%2C+8300mAh+Battery%2C+Slim+Metal+Design%2C+Space+Grey HTTP/11" 308 167
+2024-12-23 00:57:12,853 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=HONOR%20Pad%20X8a%204GB%20RAM%20128GB%20ROM%2011%20Inch%20Tablet%20Wi-Fi%20with%20FREE%20Flip%20Cover%2C%208300mAh%20Battery%2C%20Slim%20Metal%20Design%2C%20Space%20Grey HTTP/11" 200 None
+2024-12-23 00:57:14,934 - DEBUG - Starting new HTTPS connection (1): www.carrefouregypt.com:443
+2024-12-23 00:57:15,188 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=HONOR+Pad+X8a+4GB+RAM+128GB+ROM+11+Inch+Tablet+Wi-Fi+with+FREE+Flip+Cover%2C+8300mAh+Battery%2C+Slim+Metal+Design%2C+Space+Grey HTTP/11" 301 0
+2024-12-23 00:57:15,920 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-23 01:03:02,992 - ERROR - Error searching Amazon Egypt: cannot access local variable 'url' where it is not associated with a value
+2024-12-23 01:03:04,216 - DEBUG - Starting new HTTPS connection (1): www.noon.com:443
+2024-12-23 01:03:04,691 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=HONOR+Pad+X8a+4GB+RAM+128GB+ROM+11+Inch+Tablet+Wi-Fi+with+FREE+Flip+Cover%2C+8300mAh+Battery%2C+Slim+Metal+Design%2C+Space+Grey HTTP/11" 308 167
+2024-12-23 01:03:05,340 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=HONOR%20Pad%20X8a%204GB%20RAM%20128GB%20ROM%2011%20Inch%20Tablet%20Wi-Fi%20with%20FREE%20Flip%20Cover%2C%208300mAh%20Battery%2C%20Slim%20Metal%20Design%2C%20Space%20Grey HTTP/11" 200 None
+2024-12-23 01:03:07,698 - DEBUG - Starting new HTTPS connection (1): www.carrefouregypt.com:443
+2024-12-23 01:03:08,505 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=HONOR+Pad+X8a+4GB+RAM+128GB+ROM+11+Inch+Tablet+Wi-Fi+with+FREE+Flip+Cover%2C+8300mAh+Battery%2C+Slim+Metal+Design%2C+Space+Grey HTTP/11" 301 0
+2024-12-23 01:03:09,681 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-23 01:04:30,477 - ERROR - Error searching Amazon Egypt: cannot access local variable 'url' where it is not associated with a value
+2024-12-23 01:04:32,056 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=HONOR+Pad+X8a+4GB+RAM+128GB+ROM+11+Inch+Tablet+Wi-Fi+with+FREE+Flip+Cover%2C+8300mAh+Battery%2C+Slim+Metal+Design%2C+Space+Grey HTTP/11" 308 167
+2024-12-23 01:04:32,575 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=HONOR%20Pad%20X8a%204GB%20RAM%20128GB%20ROM%2011%20Inch%20Tablet%20Wi-Fi%20with%20FREE%20Flip%20Cover%2C%208300mAh%20Battery%2C%20Slim%20Metal%20Design%2C%20Space%20Grey HTTP/11" 200 None
+2024-12-23 01:04:34,435 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=HONOR+Pad+X8a+4GB+RAM+128GB+ROM+11+Inch+Tablet+Wi-Fi+with+FREE+Flip+Cover%2C+8300mAh+Battery%2C+Slim+Metal+Design%2C+Space+Grey HTTP/11" 301 0
+2024-12-23 01:04:35,407 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-23 01:09:24,062 - DEBUG - Starting new HTTPS connection (1): www.amazon.eg:443
+2024-12-23 01:09:24,333 - DEBUG - https://www.amazon.eg:443 "GET /s?k=HONOR+Pad+X8a+4GB+RAM+128GB+ROM+11+Inch+Tablet+Wi-Fi+with+FREE+Flip+Cover%2C+8300mAh+Battery%2C+Slim+Metal+Design%2C+Space+Grey HTTP/11" 200 None
+2024-12-23 01:09:26,629 - DEBUG - Starting new HTTPS connection (1): www.noon.com:443
+2024-12-23 01:09:27,029 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=HONOR+Pad+X8a+4GB+RAM+128GB+ROM+11+Inch+Tablet+Wi-Fi+with+FREE+Flip+Cover%2C+8300mAh+Battery%2C+Slim+Metal+Design%2C+Space+Grey HTTP/11" 308 167
+2024-12-23 01:09:27,687 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=HONOR%20Pad%20X8a%204GB%20RAM%20128GB%20ROM%2011%20Inch%20Tablet%20Wi-Fi%20with%20FREE%20Flip%20Cover%2C%208300mAh%20Battery%2C%20Slim%20Metal%20Design%2C%20Space%20Grey HTTP/11" 200 None
+2024-12-23 01:09:29,323 - DEBUG - Starting new HTTPS connection (1): www.carrefouregypt.com:443
+2024-12-23 01:09:29,586 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=HONOR+Pad+X8a+4GB+RAM+128GB+ROM+11+Inch+Tablet+Wi-Fi+with+FREE+Flip+Cover%2C+8300mAh+Battery%2C+Slim+Metal+Design%2C+Space+Grey HTTP/11" 301 0
+2024-12-23 01:09:30,496 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-23 01:10:00,973 - DEBUG - https://www.amazon.eg:443 "GET /s?k=HONOR+Pad+X8a HTTP/11" 200 None
+2024-12-23 01:10:04,102 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=HONOR+Pad+X8a HTTP/11" 308 62
+2024-12-23 01:10:06,380 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=HONOR%20Pad%20X8a HTTP/11" 200 None
+2024-12-23 01:10:08,623 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=HONOR+Pad+X8a HTTP/11" 301 0
+2024-12-23 01:10:09,373 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-23 01:14:29,845 - DEBUG - Starting new HTTPS connection (1): www.amazon.eg:443
+2024-12-23 01:14:30,024 - DEBUG - https://www.amazon.eg:443 "GET /s?k=NIVEA+MEN+Deodorant+Spray+for+Men%2C+Cool+Kick+Fresh+Scent%2C+150ml&language=en HTTP/11" 200 None
+2024-12-23 01:14:32,794 - DEBUG - Starting new HTTPS connection (1): www.noon.com:443
+2024-12-23 01:14:33,078 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=NIVEA+MEN+Deodorant+Spray+for+Men%2C+Cool+Kick+Fresh+Scent%2C+150ml HTTP/11" 308 117
+2024-12-23 01:14:34,013 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=NIVEA%20MEN%20Deodorant%20Spray%20for%20Men%2C%20Cool%20Kick%20Fresh%20Scent%2C%20150ml HTTP/11" 200 None
+2024-12-23 01:14:35,921 - DEBUG - Starting new HTTPS connection (1): www.carrefouregypt.com:443
+2024-12-23 01:14:36,181 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=NIVEA+MEN+Deodorant+Spray+for+Men%2C+Cool+Kick+Fresh+Scent%2C+150ml HTTP/11" 301 0
+2024-12-23 01:14:36,896 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
+2024-12-23 12:32:22,247 - DEBUG - Starting new HTTPS connection (1): www.amazon.eg:443
+2024-12-23 12:32:22,448 - DEBUG - https://www.amazon.eg:443 "GET /s?k=Sony+playstation+5+console+with+wireless+controller+cd+version%2C+white+and+black&language=en HTTP/11" 200 None
+2024-12-23 12:32:24,774 - DEBUG - Starting new HTTPS connection (1): www.noon.com:443
+2024-12-23 12:32:25,126 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search?q=Sony+playstation+5+console+with+wireless+controller+cd+version%2C+white+and+black HTTP/11" 308 122
+2024-12-23 12:32:26,572 - DEBUG - https://www.noon.com:443 "GET /egypt-en/search/?q=Sony%20playstation%205%20console%20with%20wireless%20controller%20cd%20version%2C%20white%20and%20black HTTP/11" 200 None
+2024-12-23 12:32:28,241 - DEBUG - Starting new HTTPS connection (1): www.carrefouregypt.com:443
+2024-12-23 12:32:28,727 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/search?q=Sony+playstation+5+console+with+wireless+controller+cd+version%2C+white+and+black HTTP/11" 301 0
+2024-12-23 12:32:29,804 - DEBUG - https://www.carrefouregypt.com:443 "GET /mafegy/en/ HTTP/11" 200 None
