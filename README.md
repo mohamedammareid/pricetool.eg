@@ -94,12 +94,6 @@ This project is a Python-based tool designed to compare product prices across va
 
 ---
 
-## License
-
-This project is licensed under the MIT License. Feel free to use and modify it for personal or commercial purposes.
-
----
-
 ## Contributions
 
 Contributions are welcome! If you want to contribute:
