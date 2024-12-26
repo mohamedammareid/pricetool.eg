@@ -113,5 +113,5 @@ Mohammed Ammar Mohammed Eid
 
 ## Contact
 
-For any queries or suggestions, feel free to contact me at [your email address].
+For any queries or suggestions, feel free to contact me at [].
 
